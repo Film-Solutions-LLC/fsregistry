@@ -29,3 +29,4 @@ To run the cloned repository;
 [travis-image]: https://travis-ci.org/jhipster/jhipster-registry.svg?branch=master
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
 # fsregistry
+# fsregistry
