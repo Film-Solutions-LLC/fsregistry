@@ -30,3 +30,4 @@ To run the cloned repository;
 [travis-url]: https://travis-ci.org/jhipster/jhipster-registry
 # fsregistry
 # fsregistry
+# fsregistry
